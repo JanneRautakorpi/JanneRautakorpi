@@ -1,12 +1,12 @@
 ```text
-..!5J~^^..^!JJYYY?~~7JJ!^::^7?!!??!!777JYYY?^:^:.      ..       Name:.........Janne Rautakorpi
-~^75Y7^~:.:^!JY55Y!!7!77!^^~!7~^~:.:!!!!?Y5Y!~~:....    .       Skills:...Docker, Git, Jenkins
-?JYJJ?~!7~^:^?JJ55??JJJ7~:..:^!7!^::^~?JJY55Y?~...::    .:.:    Langs:....Python, Groovy, Bash
-??JJJ?!7!:^!?YJ?J5J??JJ7^...:!7??^:..^7Y?J555J: ..:.    .!^^    Dergree:...BSc. (Comp. Science)
-???YJJJJ~. .~J?~7J77YY5J~...:~^:~!~^^~!??J555J~......   .:..
-J??YYYJJ?. .!J!:~?^^?55J7~:.::...~~~77?Y??5P5J7^::.....:~7~^
-7!!Y?7JJ?. .^~^:^?:.^?55J~:..... .^~7?Y5YY5555J!^:..:!!!7Y?!
-:^~?7~7!7: .:^:.:J!:.^~^:    .       ..^!J555YJ~.   :!77?Y?!
+..!5J~^^..^!JJYYY?~~7JJ!^::^7?!!??!!777JYYY?^:^:.      ..       Name:...............Janne Rautakorpi
+~^75Y7^~:.:^!JY55Y!!7!77!^^~!7~^~:.:!!!!?Y5Y!~~:....    .       Skills:.........Docker, Git, Jenkins
+?JYJJ?~!7~^:^?JJ55??JJJ7~:..:^!7!^::^~?JJY55Y?~...::    .:.:    Langs:..........Python, Groovy, Bash
+??JJJ?!7!:^!?YJ?J5J??JJ7^...:!7??^:..^7Y?J555J: ..:.    .!^^    Dergree:........BSc. (Comp. Science)
+???YJJJJ~. .~J?~7J77YY5J~...:~^:~!~^^~!??J555J~......   .:..    Work experience:....2 Years at Nokia
+J??YYYJJ?. .!J!:~?^^?55J7~:.::...~~~77?Y??5P5J7^::.....:~7~^        Role:.........Trainee in CI team
+7!!Y?7JJ?. .^~^:^?:.^?55J~:..... .^~7?Y5YY5555J!^:..:!!!7Y?!    Other useful skills:...Communication
+:^~?7~7!7: .:^:.:J!:.^~^:    .       ..^!J555YJ~.   :!77?Y?!                        and team work
 ^!!?J?!:^^...^!::JJ:     :^^~~~~~~~^^:   ..~YP5Y!:..~7??JY7~
 777????^^7!~:^77?!.  .  .J7!~!7!!!!!?7 ......^YY?^..^7JJJY?!
 ?77?JJJ77?7!~!??:        :...   ....::......:^~Y7.  .!JJJYJ!
