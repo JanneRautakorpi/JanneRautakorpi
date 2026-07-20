@@ -8,21 +8,21 @@ J??YYYJJ?. .!J!:~?^^?55J7~:.::...~~~77?Y??5P5J7^::.....:~7~^        Role:.......
 7!!Y?7JJ?. .^~^:^?:.^?55J~:..... .^~7?Y5YY5555J!^:..:!!!7Y?!    Favorite projects:...MenuFetcher and OsrsCalculations
 :^~?7~7!7: .:^:.:J!:.^~^:    .       ..^!J555YJ~.   :!77?Y?!    Passionate about:..............DevOps and red teaming
 ^!!?J?!:^^...^!::JJ:     :^^~~~~~~~^^:   ..~YP5Y!:..~7??JY7~
-777????^^7!~:^77?!.  .  .J7!~!7!!!!!?7 ......^YY?^..^7JJJY?!    MenuFetcher is a small Python automation project that
+777????^^7!~:^77?!.  .  .J7!~!7!!!!!?7 ......^YY?^..^7JJJY?!    **MenuFetcher** is a small Python automation project that
 ?77?JJJ77?7!~!??:        :...   ....::......:^~Y7.  .!JJJYJ!    fetches the  daily  lunch  menu from  my  workplace's
 7777Y5J???77!7?^ .      ..:^~~~~~^^:...      .:77^. .^?JJYY?    restaurant and sends it to my personal Telegram group.
-!777?J??7?77777.   .^!J5GBBBBBBBBBBBBGP5J7~^.. ^77:  :7JJYY?    It's built in Python and uses requests library,  some
-7!77?JJJ7!77!~::!YPB####BBBBBBBBBBBB#####&&#BPJ7!~^.:~!7?JYJ    environment  variables  for  bot  authentication.  I
-77!77???7!!~7JPB######BBBBGGGGGGGGGGBBB#####&&&#BGY!^~!!!7JJ    have  created a  pipeline that  runs the script every 
+!777?J??7?77777.   .^!J5GBBBBBBBBBBBBGP5J7~^.. ^77:  :7JJYY?    It's built in Python and uses requests library for API 
+7!77?JJJ7!77!~::!YPB####BBBBBBBBBBBB#####&&#BPJ7!~^.:~!7?JYJ    calls and some environment  variables  for  bot  auth.
+77!77???7!!~7JPB######BBBBGGGGGGGGGGBBB#####&&&#BGY!^~!!!7JJ    I have  created a  pipeline that  runs the script every 
 !!~!7JY?7~!JJ7Y#PGB######BGGPPPPPPPGBB#######BB#5J557~!!!!??    workday using GitHub actions.
 !!!!7?Y?!~~^~~^?!YGGGGBGBBGGPPPPPPGGBBBBBBBBG57Y!!!~~~!77!77
-7!!!!?JJ777!!7~7!7YGGGBB#BBGGGPPPGGBB###BBBGY??J~!!!!!!77!!7    Then I have two small other projects related to OSRS.
-7!!!~!!7?JYJ?7!7^~7Y5PGBBBBBGBPPGGGBBBBBGP5Y?~!?7!7?7!!??!!7    One of them calculates DPS and time-to-kill values
-7!!!!77??JYYJ7~.^:~?Y55PPPPPGP555GGPPPPP5YY7~^~!7!!77!!7?!!?    based on several in-game factors and statistics. The
-~~~~~~777!!!~~~ :~~!7?JJYJY5Y????J5YJJJJJ?7~~!.^!!!!7!!77!7J    other project is just a simple autoclicker to automate
-7!!~^~!?J?!~!!!^::^~7?JJJY5J!!~^~!7Y5YYJJ?!~^::^^~~!!!!~^^!J    my level up trainings. The autoclicker is built in Py
-??7!!77!^^^!?7!!::^~!77?JYY?JJ77?JYJYYJJ?77!~~^^^^^~~^^^^:~7    and uses pyautogui module.
-7!~~~~!!!~~!7??!^:!????JY?777JYP5Y?77?YYYYYJ?!7JJ7!^^~~~^^^^
+7!!!!?JJ777!!7~7!7YGGGBB#BBGGGPPPGGBB###BBBGY??J~!!!!!!77!!7    Then I have two other small projects related to game
+7!!!~!!7?JYJ?7!7^~7Y5PGBBBBBGBPPGGGBBBBBGP5Y?~!?7!7?7!!??!!7    called OSRS. They are called OsrsCalcuations and 
+7!!!!77??JYYJ7~.^:~?Y55PPPPPGP555GGPPPPP5YY7~^~!7!!77!!7?!!?    Autoclicker. First is used to calculate TTK and DPS
+~~~~~~777!!!~~~ :~~!7?JJYJY5Y????J5YJJJJJ?7~~!.^!!!!7!!77!7J    values to simulate the length of a certain battle. The
+7!!~^~!?J?!~!!!^::^~7?JJJY5J!!~^~!7Y5YYJJ?!~^::^^~~!!!!~^^!J    other project is just a simple autoclicker to automate
+??7!!77!^^^!?7!!::^~!77?JYY?JJ77?JYJYYJJ?77!~~^^^^^~~^^^^:~7    my skill training. The project is once again built in
+7!~~~~!!!~~!7??!^:!????JY?777JYP5Y?77?YYYYYJ?!7JJ7!^^~~~^^^^    Python and it uses pyautogui module.
 ?7~~!777?7??7????^~????JYJ7!!7?JJJ?77J55YY5J75@@@@&B?~~~~~^^
 77!!77!!77J5PGP5GG~~!7??J?????JJJJJJ??J?777!?G@@@@@@@5!~~~~^
 ^~!7!~!!75#&GYPPBBP7~!!~~^^^~!!!!!~~^^^~!!!YBG&@@@@@@GY!^^^^
