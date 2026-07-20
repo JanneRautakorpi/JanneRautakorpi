@@ -24,10 +24,10 @@ J??YYYJJ?. .!J!:~?^^?55J7~:.::...~~~77?Y??5P5J7^::.....:~7~^        Role:.......
 ??7!!77!^^^!?7!!::^~!77?JYY?JJ77?JYJYYJJ?77!~~^^^^^~~^^^^:~7    my skill training. The project is once again built in
 7!~~~~!!!~~!7??!^:!????JY?777JYP5Y?77?YYYYYJ?!7JJ7!^^~~~^^^^    Python and it uses pyautogui module.
 ?7~~!777?7??7????^~????JYJ7!!7?JJJ?77J55YY5J75@@@@&B?~~~~~^^
-77!!77!!77J5PGP5GG~~!7??J?????JJJJJJ??J?777!?G@@@@@@@5!~~~~^
-^~!7!~!!75#&GYPPBBP7~!!~~^^^~!!!!!~~^^^~!!!YBG&@@@@@@GY!^^^^
-~^~~~~~7P#G5Y5PBBGB#5!~^^^::^^~!~~^::^^!!77##BBBG#@@&PPJ^^^^
-~!!~~^^YBJJPPPPG###&#!7?!~::..:^^^:::^!YY?G&#BGG#&&BGBG5~^^^
+77!!77!!77J5PGP5GG~~!7??J?????JJJJJJ??J?777!?G@@@@@@@5!~~~~^    As you can see all my personal projects have been quite
+^~!7!~!!75#&GYPPBBP7~!!~~^^^~!!!!!~~^^^~!!!YBG&@@@@@@GY!^^^^    simple; they all have been created to solve some problem.
+~^~~~~~7P#G5Y5PBBGB#5!~^^^::^^~!~~^::^^!!77##BBBG#@@&PPJ^^^^    I love making things as simple as possible while still
+~!!~~^^YBJJPPPPG###&#!7?!~::..:^^^:::^!YY?G&#BGG#&&BGBG5~^^^    getting those problems solved!
 ~~~^^~~?5GBGGGGGB#&@B~~J5Y7~~~~!7!!7?J5Y?5&&&&&&&#BBGGGG7^~~
 ~~~!!~J??J5PGBBGB###B?^^75PPPP55PPGGP5J?Y#&&###B###GGGG5P577
 ~7??7!?PGP5Y55PPGB#&##5!~!J5PGGGBBGP5JJYB&&##BB&&@@#BBG5Y#G?
