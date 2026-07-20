@@ -1,8 +1,8 @@
 ```text
-..!5J~^^..^!JJYYY?~~7JJ!^::^7?!!??!!777JYYY?^:^:.      ..   Name:.........Janne Rautakorpi
-~^75Y7^~:.:^!JY55Y!!7!77!^^~!7~^~:.:!!!!?Y5Y!~~:....    .   Skills:...Docker, Git, Jenkins
-?JYJJ?~!7~^:^?JJ55??JJJ7~:..:^!7!^::^~?JJY55Y?~...::    .:.:Langs:....Python, Groovy, Bash
-??JJJ?!7!:^!?YJ?J5J??JJ7^...:!7??^:..^7Y?J555J: ..:.    .!^^Dergree:...BSc. (Comp. Science)
+..!5J~^^..^!JJYYY?~~7JJ!^::^7?!!??!!777JYYY?^:^:.      ..       Name:.........Janne Rautakorpi
+~^75Y7^~:.:^!JY55Y!!7!77!^^~!7~^~:.:!!!!?Y5Y!~~:....    .       Skills:...Docker, Git, Jenkins
+?JYJJ?~!7~^:^?JJ55??JJJ7~:..:^!7!^::^~?JJY55Y?~...::    .:.:    Langs:....Python, Groovy, Bash
+??JJJ?!7!:^!?YJ?J5J??JJ7^...:!7??^:..^7Y?J555J: ..:.    .!^^    Dergree:...BSc. (Comp. Science)
 ???YJJJJ~. .~J?~7J77YY5J~...:~^:~!~^^~!??J555J~......   .:..
 J??YYYJJ?. .!J!:~?^^?55J7~:.::...~~~77?Y??5P5J7^::.....:~7~^
 7!!Y?7JJ?. .^~^:^?:.^?55J~:..... .^~7?Y5YY5555J!^:..:!!!7Y?!
